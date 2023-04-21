@@ -6,13 +6,13 @@ The "Clean Temp" application provides a simple and user-friendly interface that 
 
 **There are a few versions of the application.**
 
--> ## CleanTemp  --version 0.5.0
+## CleanTemp  --version 0.5.0
     """ Here you can just clean your.
         -> User Temp
         -> Windows Temp
         -> Windows Prefetch
         With simple Admin Permission."""
--> ## CleanTemp  --version 1.0.0
+## CleanTemp  --version 1.0.0
     """ Here you can also clear the recycle bin.
         -> User Temp
         -> Windows Temp
@@ -20,7 +20,7 @@ The "Clean Temp" application provides a simple and user-friendly interface that 
         -> Recycle Bin (as user allowed)
         Tick the Check box to clean the RECYCLE BIN. """
 
--> ## CleanTemp  --version 1.5.0
+## CleanTemp  --version 1.5.0
     """ Now you can Clean Recent data.
         -> User Temp
         -> Windows Temp
@@ -29,8 +29,7 @@ The "Clean Temp" application provides a simple and user-friendly interface that 
         -> Recent
         Auto clean when user click 'CLEAN UP'. """
 
-
-*** It is Safe and Secure, No other data will be lost... ***
+***It is Safe and Secure, No other data will be lost...***
 
 
 
